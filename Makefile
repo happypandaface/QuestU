@@ -1,5 +1,5 @@
 all:
-	@python3 quest.py
+	@python quest.py
 
 gen:
 	@python3 genQuests.py
